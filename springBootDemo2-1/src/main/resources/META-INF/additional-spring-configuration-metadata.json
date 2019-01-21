@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "hello.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'hello.secret'"
+  },
+  {
+    "name": "hello.number",
+    "type": "java.lang.String",
+    "description": "A description for 'hello.number'"
+  }
+]}

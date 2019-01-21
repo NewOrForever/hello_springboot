@@ -1,0 +1,13 @@
+server: 
+  port: 8080
+  servlet: 
+    context-path: /
+hello: 
+  secret: ${random.value} 
+  number: ${random.int}
+spring:
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+      
+helloSpringBoot: spring boot hello
